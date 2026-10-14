@@ -88,9 +88,15 @@ app.use((err, req, res, next) => {
   res.status(500).json({ message: err.message || 'Internal Server Error' });
 });
 
-// Initialize database seeds and start server
-seedData().then(() => {
-  app.listen(PORT, () => {
-    console.log(`🚀 ASX DIGITAL SOLUTIONS Server running on http://localhost:${PORT}`);
+// Export Express app for Vercel Serverless Function & testing
+module.exports = app;
+
+// Only listen when running as a standalone server (local dev or traditional VPS)
+if (!process.env.VERCEL) {
+  seedData().then(() => {
+    app.listen(PORT, () => {
+      console.log(`🚀 ASX DIGITAL SOLUTIONS Server running on http://localhost:${PORT}`);
+    });
   });
-});
+}
+
