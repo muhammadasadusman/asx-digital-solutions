@@ -1,0 +1,107 @@
+[
+  {
+    "id": "port_1",
+    "title": "ApexFlow - Cloud ERP & Logistics Platform",
+    "category": "Web Development",
+    "client": "Apex Global Logistics UK",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&auto=format&fit=crop&q=80",
+    "description": "Enterprise resource planning platform handling 50k+ daily freight shipments, real-time GPS fleet tracking, and automated client invoicing.",
+    "tags": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Socket.io",
+      "Tailwind"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/apexflow",
+    "featured": true
+  },
+  {
+    "id": "port_2",
+    "title": "VoltPulse - Smart EV Charging Mobile App",
+    "category": "App Development",
+    "client": "VoltPulse Mobility UAE",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=900&auto=format&fit=crop&q=80",
+    "description": "React Native iOS & Android application allowing electric vehicle drivers to reserve charging spots, monitor charging telemetry, and pay seamlessly.",
+    "tags": [
+      "React Native",
+      "TypeScript",
+      "Node.js",
+      "Stripe Gateway"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/voltpulse",
+    "featured": true
+  },
+  {
+    "id": "port_3",
+    "title": "Aura Luxe - Haute Horlogerie Shopify Experience",
+    "category": "Shopify & E-Commerce",
+    "client": "Aura Swiss Timepieces",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&auto=format&fit=crop&q=80",
+    "description": "Custom Shopify 2.0 store with 3D product visualizer, multi-currency checkout, and integrated international payment gateways.",
+    "tags": [
+      "Shopify Liquid",
+      "Three.js",
+      "Tailwind",
+      "Stripe",
+      "PayPal"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/auraluxe",
+    "featured": true
+  },
+  {
+    "id": "port_4",
+    "title": "CyberMatrix Brand Identity & UI/UX System",
+    "category": "Web & UI/UX Design",
+    "client": "CyberMatrix AI Labs",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?w=900&auto=format&fit=crop&q=80",
+    "description": "Complete UI/UX design overhaul, 150+ component design system in Figma, and interactive micro-animations for an AI cybersecurity company.",
+    "tags": [
+      "Figma",
+      "UI/UX",
+      "Design System",
+      "Prototyping"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/cybermatrix",
+    "featured": true
+  },
+  {
+    "id": "port_5",
+    "title": "HyperMotion 3D Tech Commercial & Reels Campaign",
+    "category": "Video Editing & Motion Graphics",
+    "client": "HyperPulse Audio USA",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=900&auto=format&fit=crop&q=80",
+    "description": "High-energy 4K product launch video featuring 3D product renders, dynamic particle effects, and viral sound design generating 1.2M+ views.",
+    "tags": [
+      "After Effects",
+      "Premiere Pro",
+      "Blender",
+      "Sound Design"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/hypermotion",
+    "featured": false
+  },
+  {
+    "id": "port_6",
+    "title": "MediCare Pulse - Telehealth Portal & Clinic Booking",
+    "category": "Web Development",
+    "client": "MediCare Health Group",
+    "year": "2026",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=900&auto=format&fit=crop&q=80",
+    "description": "Full-stack patient booking management system with video consultations, encrypted medical records, and digital payment receipts.",
+    "tags": [
+      "React",
+      "Express",
+      "MongoDB",
+      "WebRTC",
+      "Tailwind"
+    ],
+    "liveUrl": "https://asxdigital.com/demos/medicare",
+    "featured": false
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "usr_superadmin_01",
+    "name": "ASX Super Admin",
+    "email": "admin@asxdigital.com",
+    "password": "$2a$10$ptIEB2N6bmfptVKIg3ytKu62E7UgHNArxVIxzfwLrPAWbCphdwNkS",
+    "role": "superadmin",
+    "title": "Founder & Head of Operations",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80",
+    "permissions": {
+      "can_manage_services": true,
+      "can_manage_portfolio": true,
+      "can_manage_team": true,
+      "can_manage_reviews": true,
+      "can_manage_messages": true,
+      "can_manage_billing": true,
+      "can_manage_users": true
+    },
+    "createdAt": "2026-10-14T03:35:40.812Z"
+  },
+  {
+    "id": "usr_manager_02",
+    "name": "Hamza Malik",
+    "email": "manager@asxdigital.com",
+    "password": "$2a$10$ptIEB2N6bmfptVKIg3ytKud31v3ohi3Yj6T6.2YGiI9yvZP/FgWyS",
+    "role": "manager",
+    "title": "Senior Operations Lead",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80",
+    "permissions": {
+      "can_manage_services": false,
+      "can_manage_portfolio": true,
+      "can_manage_team": true,
+      "can_manage_reviews": true,
+      "can_manage_messages": true,
+      "can_manage_billing": false,
+      "can_manage_users": false
+    },
+    "createdAt": "2026-10-14T03:35:40.815Z"
+  }
+]

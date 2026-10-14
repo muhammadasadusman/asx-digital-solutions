@@ -1,0 +1,14 @@
+{
+  "name": "asx-digital-solutions",
+  "version": "1.0.0",
+  "description": "Full-stack MERN agency platform for ASX DIGITAL SOLUTIONS",
+  "scripts": {
+    "install-all": "cd server && npm install && cd ../client && npm install",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "start": "node server/server.js"
+  },
+  "keywords": ["agency", "mern", "asx-digital-solutions"],
+  "author": "ASX DIGITAL SOLUTIONS",
+  "license": "ISC"
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "inv_1",
+    "invoiceNumber": "ASX-2026-001",
+    "clientName": "Apex Global Logistics UK",
+    "clientEmail": "billing@apexlogistics.co.uk",
+    "projectName": "Enterprise Logistics ERP & Fleet Portal",
+    "service": "Web Development",
+    "amount": 3200,
+    "currency": "USD",
+    "status": "Paid",
+    "dueDate": "2026-04-15",
+    "paymentMethod": "Bank Transfer",
+    "items": [
+      {
+        "description": "Phase 1: React Dashboard & Core API Integration",
+        "amount": 1800
+      },
+      {
+        "description": "Phase 2: GPS Telemetry, Cloud DB & Socket.io Live Sync",
+        "amount": 1400
+      }
+    ],
+    "createdAt": "2026-03-25T10:00:00Z"
+  },
+  {
+    "id": "inv_2",
+    "invoiceNumber": "ASX-2026-002",
+    "clientName": "Aura Swiss Timepieces",
+    "clientEmail": "elena@aurawatches.ch",
+    "projectName": "Custom Shopify 2.0 Luxe Store Development",
+    "service": "Shopify & E-Commerce",
+    "amount": 2400,
+    "currency": "USD",
+    "status": "Under Review",
+    "dueDate": "2026-04-20",
+    "paymentMethod": "Pending",
+    "items": [
+      {
+        "description": "Shopify Liquid Custom Theme Development & 3D Viewer",
+        "amount": 1600
+      },
+      {
+        "description": "Payment Gateways & Multi-currency Checkout Setup",
+        "amount": 800
+      }
+    ],
+    "createdAt": "2026-04-01T12:00:00Z",
+    "paymentProof": {
+      "paymentMethod": "Easypaisa",
+      "transactionId": "EP-99887766",
+      "senderName": "Test Payer",
+      "proofScreenshotUrl": "",
+      "notes": "",
+      "submittedAt": "2026-10-14T03:46:52.954Z"
+    }
+  },
+  {
+    "id": "inv_3",
+    "invoiceNumber": "ASX-PK-809",
+    "clientName": "TechVibe PK",
+    "clientEmail": "contact@techvibepk.com",
+    "projectName": "Commercial Promo Video & Motion Graphics Package",
+    "service": "Video Editing & Motion Graphics",
+    "amount": 145000,
+    "currency": "PKR",
+    "status": "Unpaid",
+    "dueDate": "2026-04-25",
+    "paymentMethod": "Pending",
+    "items": [
+      {
+        "description": "4K Commercial Video Editing & 3D Motion Graphics",
+        "amount": 105000
+      },
+      {
+        "description": "Sound Design & 10 Social Media Viral Reels Pack",
+        "amount": 40000
+      }
+    ],
+    "createdAt": "2026-04-08T09:30:00Z"
+  }
+]

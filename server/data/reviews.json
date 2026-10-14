@@ -1,0 +1,63 @@
+[
+  {
+    "id": "rev_c226d4e0",
+    "clientName": "Alpha Tech Corp",
+    "clientRole": "CTO",
+    "rating": 5,
+    "review": "Outstanding engineering by ASX DIGITAL!",
+    "serviceUsed": "Web Development",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=Alpha%20Tech%20Corp",
+    "date": "2026-10-14",
+    "status": "pending",
+    "featured": false,
+    "createdAt": "2026-10-14T03:46:52.938Z"
+  },
+  {
+    "id": "rev_1",
+    "clientName": "Marcus Sterling",
+    "clientRole": "CEO at Sterling Logistics (UK)",
+    "rating": 5,
+    "review": "ASX DIGITAL SOLUTIONS completely transformed our freight operations. Their full-stack MERN platform automated 80% of our manual dispatches. Flawless communication, modern code quality, and on-time delivery!",
+    "serviceUsed": "Web Development",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&auto=format&fit=crop&q=80",
+    "date": "2026-03-12",
+    "status": "approved",
+    "featured": true
+  },
+  {
+    "id": "rev_2",
+    "clientName": "Elena Rostova",
+    "clientRole": "Founder, Aura Timepieces (Dubai)",
+    "rating": 5,
+    "review": "Our custom Shopify store built by ASX achieved a 38% increase in conversion rate within the first month. The 3D product view and seamless payment gateway setup were pure art. Highly recommended!",
+    "serviceUsed": "Shopify & E-Commerce",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+    "date": "2026-03-28",
+    "status": "approved",
+    "featured": true
+  },
+  {
+    "id": "rev_3",
+    "clientName": "Khurram Shehzad",
+    "clientRole": "Managing Director, CyberMatrix Labs",
+    "rating": 5,
+    "review": "Zainab and the ASX design team created a futuristic, ultra-clean UI/UX that made our complex cybersecurity SaaS easy to navigate. Their attention to animations and micro-interactions is world class.",
+    "serviceUsed": "Web & UI/UX Design",
+    "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+    "date": "2026-04-02",
+    "status": "approved",
+    "featured": true
+  },
+  {
+    "id": "rev_4",
+    "clientName": "David Chen",
+    "clientRole": "VP Product, HyperPulse Audio (California)",
+    "rating": 5,
+    "review": "The commercial video edited by ASX DIGITAL blew our expectations away! 3D animation, sound design, and color grading were Hollywood-grade. Our Kickstarter hit 250% funded in 48 hours.",
+    "serviceUsed": "Video Editing & Motion Graphics",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&auto=format&fit=crop&q=80",
+    "date": "2026-04-05",
+    "status": "approved",
+    "featured": true
+  }
+]

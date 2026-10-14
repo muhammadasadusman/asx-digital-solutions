@@ -1,0 +1,102 @@
+[
+  {
+    "id": "team_1",
+    "name": "Ali Raza",
+    "role": "Chief Technology Officer (CTO)",
+    "department": "Engineering",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&auto=format&fit=crop&q=80",
+    "bio": "Full-stack software architect with 8+ years leading enterprise web and cloud systems.",
+    "skills": [
+      "MERN Stack",
+      "System Architecture",
+      "Cloud Infrastructure",
+      "Next.js"
+    ],
+    "email": "ali.raza@asxdigital.com",
+    "portfolioItems": [
+      "ApexFlow ERP",
+      "MediCare Pulse"
+    ],
+    "verified": true
+  },
+  {
+    "id": "team_2",
+    "name": "Zainab Fatima",
+    "role": "Lead UI/UX Designer & Art Director",
+    "department": "Design",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=500&auto=format&fit=crop&q=80",
+    "bio": "Award-winning digital product designer specializing in modern interfaces, design systems, and conversion-focused UX.",
+    "skills": [
+      "Figma",
+      "Design Systems",
+      "Micro-Interactions",
+      "Prototyping"
+    ],
+    "email": "zainab.f@asxdigital.com",
+    "portfolioItems": [
+      "CyberMatrix Design System",
+      "Aura Luxe UI"
+    ],
+    "verified": true
+  },
+  {
+    "id": "team_3",
+    "name": "Bilal Ahmed",
+    "role": "Senior Mobile App Engineer",
+    "department": "Mobile Development",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=80",
+    "bio": "React Native & Flutter specialist with over 20 published applications on App Store and Google Play.",
+    "skills": [
+      "React Native",
+      "Flutter",
+      "iOS / Android Native",
+      "APIs"
+    ],
+    "email": "bilal.ahmed@asxdigital.com",
+    "portfolioItems": [
+      "VoltPulse EV App",
+      "FinTech Express Wallet"
+    ],
+    "verified": true
+  },
+  {
+    "id": "team_4",
+    "name": "Danyal Siddiqui",
+    "role": "Lead Video Editor & 3D Motion Artist",
+    "department": "Creative & Media",
+    "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=500&auto=format&fit=crop&q=80",
+    "bio": "Cinematic video editor and 3D motion animator delivering top-tier brand commercials and viral social content.",
+    "skills": [
+      "After Effects",
+      "Premiere Pro",
+      "Cinema 4D",
+      "Sound Engineering"
+    ],
+    "email": "danyal.s@asxdigital.com",
+    "portfolioItems": [
+      "HyperMotion 3D Commercial",
+      "ASX Brand Showreel"
+    ],
+    "verified": true
+  },
+  {
+    "id": "team_5",
+    "name": "Saad Farooq",
+    "role": "Senior Shopify & E-Commerce Developer",
+    "department": "E-Commerce",
+    "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=500&auto=format&fit=crop&q=80",
+    "bio": "Shopify Plus developer experienced in high-volume stores, headless frontends, custom apps, and payment integrations.",
+    "skills": [
+      "Shopify Liquid",
+      "Headless Commerce",
+      "Payment Gateways",
+      "CRO"
+    ],
+    "email": "saad.farooq@asxdigital.com",
+    "portfolioItems": [
+      "Aura Luxe Store",
+      "UrbanStyle Fashion App"
+    ],
+    "verified": true
+  }
+]

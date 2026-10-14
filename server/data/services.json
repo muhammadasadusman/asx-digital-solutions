@@ -1,0 +1,114 @@
+[
+  {
+    "id": "srv_1",
+    "title": "Full-Stack Web Development",
+    "slug": "web-development",
+    "icon": "Code2",
+    "description": "Scalable web applications engineered with MERN stack, Next.js, TypeScript, and modern cloud microservices.",
+    "features": [
+      "Custom React & Next.js Frontends",
+      "Robust Node.js / Express REST & GraphQL APIs",
+      "High Performance Database Architecture (MongoDB, PostgreSQL)",
+      "Secure Authentication & Role-Based Access Controls",
+      "Cloud CI/CD & AWS/Vercel Deployment"
+    ],
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Next.js",
+      "Tailwind CSS"
+    ],
+    "popular": true
+  },
+  {
+    "id": "srv_2",
+    "title": "Mobile App Development",
+    "slug": "app-development",
+    "icon": "Smartphone",
+    "description": "Cross-platform and native iOS & Android applications with fluid 60FPS animations, offline sync, and real-time features.",
+    "features": [
+      "Cross-Platform iOS & Android apps (React Native / Flutter)",
+      "Push Notifications & In-App Messaging",
+      "Payment Gateway & In-App Purchases",
+      "Biometric Security & Encrypted Local Storage",
+      "App Store & Google Play Store Submission"
+    ],
+    "technologies": [
+      "React Native",
+      "Flutter",
+      "Firebase",
+      "Redux",
+      "Swift",
+      "Kotlin"
+    ],
+    "popular": true
+  },
+  {
+    "id": "srv_3",
+    "title": "Web & UI/UX Design",
+    "slug": "web-design",
+    "icon": "Palette",
+    "description": "Data-driven UI/UX design, interactive prototypes, and design systems crafted for high conversion and unforgettable brand experience.",
+    "features": [
+      "High-Fidelity Figma Prototypes & Wireframing",
+      "Comprehensive Design Systems & Component Libraries",
+      "Mobile-First & Responsive UX Architecture",
+      "User Journey Mapping & Usability Testing",
+      "Micro-Interactions & Motion Design"
+    ],
+    "technologies": [
+      "Figma",
+      "Adobe XD",
+      "Illustrator",
+      "Tailwind",
+      "Framing"
+    ],
+    "popular": false
+  },
+  {
+    "id": "srv_4",
+    "title": "Video Editing & Motion Graphics",
+    "slug": "video-editing",
+    "icon": "Film",
+    "description": "High-impact promotional videos, social reels, 3D motion graphics, and cinematic commercial editing that captivates audiences.",
+    "features": [
+      "Cinematic Commercials & Brand Storytelling",
+      "Viral Short-Form Content (Reels, TikTok, YouTube Shorts)",
+      "3D Motion Graphics & Visual Effects (VFX)",
+      "Color Grading, Sound Design & Audio Mastering",
+      "Product Showcase & Explainer Animations"
+    ],
+    "technologies": [
+      "Premiere Pro",
+      "After Effects",
+      "DaVinci Resolve",
+      "Blender",
+      "Cinema 4D"
+    ],
+    "popular": false
+  },
+  {
+    "id": "srv_5",
+    "title": "Shopify & E-Commerce Solutions",
+    "slug": "shopify-ecommerce",
+    "icon": "ShoppingBag",
+    "description": "High-converting custom Shopify stores, headless e-commerce, automated fulfillment workflows, and payment gateway setups.",
+    "features": [
+      "Bespoke Shopify Liquid Theme Development",
+      "Conversion Rate Optimization (CRO) & Upsell Funnels",
+      "Payment Gateway Integration (Stripe, JazzCash, Easypaisa, PayPal)",
+      "Inventory & Shipping ERP Sync",
+      "Speed Optimization (Sub-2s page load)"
+    ],
+    "technologies": [
+      "Shopify Liquid",
+      "Headless React",
+      "Stripe",
+      "PayPal",
+      "Klaviyo"
+    ],
+    "popular": true
+  }
+]

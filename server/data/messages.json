@@ -1,0 +1,42 @@
+[
+  {
+    "id": "msg_096ca5d7",
+    "name": "Test Client",
+    "email": "test@example.com",
+    "phone": "",
+    "service": "General Inquiry",
+    "budget": "Flexible",
+    "timeline": "Standard",
+    "subject": "New Project Consultation",
+    "message": "Testing inquiry system for ASX DIGITAL SOLUTIONS",
+    "status": "New",
+    "replies": [],
+    "createdAt": "2026-10-14T03:46:52.932Z"
+  },
+  {
+    "id": "msg_1",
+    "name": "Zeeshan Tariq",
+    "email": "zeeshan@primeventures.pk",
+    "phone": "+92 321 4455667",
+    "service": "Web Development",
+    "budget": "$2,500 - $5,000",
+    "timeline": "1-2 Months",
+    "subject": "Custom Real Estate Portal with CRM and Map Integration",
+    "message": "AOA, we need a complete MERN stack web portal for our real estate firm in Islamabad. We love your agency designs and want to discuss project timeline and quotation.",
+    "status": "New",
+    "createdAt": "2026-10-14T03:35:40.833Z"
+  },
+  {
+    "id": "msg_2",
+    "name": "Sophie Laurent",
+    "email": "sophie@fashionavenue.fr",
+    "phone": "+33 6 12 34 56 78",
+    "service": "Shopify & E-Commerce",
+    "budget": "$5,000+",
+    "timeline": "Immediate",
+    "subject": "Shopify Store Redesign & Global Payment Setup",
+    "message": "Hello ASX team! We want to migrate our existing boutique store to a high speed custom Shopify 2.0 store with PayPal and Stripe. Can we arrange a consultation call this week?",
+    "status": "In Progress",
+    "createdAt": "2026-10-13T03:35:40.833Z"
+  }
+]

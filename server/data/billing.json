@@ -1,0 +1,50 @@
+{
+  "bankAccount": {
+    "enabled": true,
+    "bankName": "Meezan Bank Limited / Standard Chartered",
+    "accountTitle": "ASX DIGITAL SOLUTIONS (PVT) LTD",
+    "accountNumber": "02010108927891",
+    "iban": "PK45MEZN0002010108927891",
+    "swiftCode": "MEZNPKKAXXX",
+    "branch": "Digital Corporate Branch, Main Boulevard",
+    "instructions": "Please include your Invoice # or Project ID in the transaction reference."
+  },
+  "easypaisa": {
+    "enabled": true,
+    "accountTitle": "ASX DIGITAL SOLUTIONS - ACCOUNTS",
+    "mobileNumber": "0300-8492019",
+    "instructions": "Send via Easypaisa App or Agent and upload the transaction screenshot or Txn ID below."
+  },
+  "jazzCash": {
+    "enabled": true,
+    "accountTitle": "ASX DIGITAL SOLUTIONS PVT",
+    "mobileNumber": "0301-7654321",
+    "instructions": "Transfer to JazzCash Wallet and save the 11-digit TID for instant invoice confirmation."
+  },
+  "cardPayment": {
+    "enabled": true,
+    "gatewayName": "ASX Secure Card Checkout (Visa / Mastercard)",
+    "supportCurrencies": [
+      "USD",
+      "PKR",
+      "AED",
+      "GBP",
+      "EUR"
+    ],
+    "feePercent": 0,
+    "instructions": "Instant automatic payment processing with 256-bit SSL encryption and instant invoice receipt."
+  },
+  "payoneer": {
+    "enabled": true,
+    "accountEmail": "billing@asxdigital.com",
+    "accountTitle": "ASX Digital Solutions LLC",
+    "receivingAccounts": "USD, EUR, GBP supported via Payoneer In-Network Transfer (0% fee).",
+    "instructions": "Send payment to our Payoneer email or request a direct Payoneer payment link from your account manager."
+  },
+  "paypal": {
+    "enabled": true,
+    "accountEmail": "payments@asxdigital.com",
+    "paypalMeLink": "https://paypal.me/asxdigitalsolutions",
+    "instructions": "For international clients. Direct credit card or PayPal balance transfer accepted."
+  }
+}
