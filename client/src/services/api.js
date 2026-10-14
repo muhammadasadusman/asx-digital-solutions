@@ -1,4 +1,5 @@
-const API_BASE = '/api';
+const BACKEND_URL = (import.meta.env.VITE_API_URL || '').replace(/\/$/, '');
+const API_BASE = BACKEND_URL ? `${BACKEND_URL}/api` : '/api';
 
 function getAuthHeader() {
   const token = localStorage.getItem('asx_token');
@@ -310,6 +311,10 @@ export const api = {
       headers: { ...getAuthHeader() },
       body: formData,
     });
-    return handleResponse(res);
+    const data = await handleResponse(res);
+    if (BACKEND_URL && data.url && data.url.startsWith('/')) {
+      data.url = `${BACKEND_URL}${data.url}`;
+    }
+    return data;
   },
 };
